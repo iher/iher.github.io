@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.crema{
+    background: rgb(241, 225, 216);
+}
+header{
+    width: 100%;
+    height: 70px;
+    background: lightseagreen;
+}
+.ancho{
+    width: 80%;
+    height: 70px;
+    margin: auto;
+}
+.logo{
+    width: 30%;
+    height: 70px;
+    float: left;
+    padding-top: 10px;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+.logo h1 a{
+    color:#fff;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: lobster;
+}
+nav{
+    width: 70%;
+    height: 70px;
+    float: left;
+    text-align: right;
+    padding-top: 24px;
+    box-sizing: border-box;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+nav ul li a:hover{
+    color: #444
+}
+@font-face{
+    font-family: lobster;
+    src: url(../fuentes/Lobster-Regular.ttf)
+}
+.ancho_fotos{
+    width: 100%;
+    height: 50px;
+}
+.fotos_h1{
+    width: 95%;
+    height: 50px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    font-weight: bold;
+    margin: auto;
+}
+.fotos_img{
+    width: 95%;
+    margin: auto;
+    /*background: blue;*/
+}
+.img1{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img2{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img3{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img4{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img5{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img6{
+    padding-top: 10px;
+    padding-right: 10px;
+    margin: auto;
+}
+.img7{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img8{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img9{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img10{
+    padding-top: 10px;
+    padding-right: 10px;
+}
