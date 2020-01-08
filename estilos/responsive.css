@@ -39,37 +39,38 @@
     }
     .fotos_img{
         width: 90%;
+        align-content: center;
     }
     .img1{
-        padding-left: 65px;
+        padding-left: 16px;
         padding-top: 15px;
     }
     .img2{
-        padding-left: 65px;
+        padding-left: 16px;
     }
     .img3{
-        padding-left: 65px;
+        padding-left: 16px;
     }
     .img4{
-        padding-left: 65px;
+        padding-left: 16px;
     }
     .img5{
-        padding-left: 65px;
+        padding-left: 16px;
     }
     .img6{
-        padding-left: 65px;
+        padding-left: 16px;
     }
     .img7{
-        padding-left: 65px;
+        padding-left: 16px;
     }
     .img8{
-        padding-left: 65px;
+        padding-left: 16px;
     }
     .img9{
-        padding-left: 65px;
+        padding-left: 16px;
     }
     .img10{
-        padding-left: 65px;
+        padding-left: 16px;
     }
 }
 
